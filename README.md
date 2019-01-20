@@ -76,7 +76,10 @@ Feltovich & Spiro paper about oversimplifications: [doi.org/10.1093/jmp/14.2.109
 
 These are the notes I took watching the lectures. I took a combination of handwritten notes (using my [reMarkable](https://remarkable.com/) tablet) and typed notes:
 
-* [Handwritten notes - all lectures](handwritten-notes)
+### Handwritten notes
+
+* [As a single PDF](notes.pdf)
+* [As multiple SVGs](handwritten-notes)
 
 ### Typed notes
 
