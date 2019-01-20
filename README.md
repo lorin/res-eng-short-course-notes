@@ -11,10 +11,14 @@ The lectures are available for free online at the link above.
 ## Lectures
 
 The videos on the official page are in iframes, which prevented me from viewing
-them in full screen mode. Here are direct links to the videos, which allows you to view them full screen.
+them in full screen mode. Here are direct links to the videos, which allows you
+to view them full screen.
+
+I watched the videos at 2X speed using the Chrome [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) plugin.
 
 * [Lecture 1](https://livestream.com/accounts/10405787/events/3731290/player)
 * [Lecture 2](https://livestream.com/accounts/10405787/events/3733706/player)
+* [Lecture 2B](http://csel.org.ohio-state.edu/videos/video2b.mp4) (~11 minutes .mp4 file)
 * [Lecture 3](http://new.livestream.com/accounts/10405787/events/3733742/player)
 * [Lecture 4](https://livestream.com/accounts/10405787/events/3734088/player)
 * [Lecture 5](https://livestream.com/accounts/10405787/events/3734094/player)
