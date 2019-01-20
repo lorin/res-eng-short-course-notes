@@ -10,7 +10,7 @@ The lectures are available for free online at the link above.
 
 ## Direct links to lectures
 
-The videos on the official page are in iframes, which seems to prevented Chrome
+The videos on the official page are in iframes, which seems to prevent Chrome
 from viewing them in full screen mode. Here are direct links to the videos,
 which allows the videos to be full screen.
 
