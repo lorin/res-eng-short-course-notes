@@ -4,11 +4,11 @@ These are my personal, unofficial notes on [David
 Woods's](https://complexity.osu.edu/people/woods.2) Resilience Engineering
 short couse.
 
-Official page: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
+Official course site: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
 
 The lectures are available for free online at the link above.
 
-## Lectures
+## Direct links to lectures
 
 The videos on the official page are in iframes, which prevented me from viewing
 them in full screen mode. Here are direct links to the videos, which allows you
@@ -71,16 +71,6 @@ Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Wo
 
 
 Feltovich & Spiro paper about oversimplifications: [doi.org/10.1093/jmp/14.2.109](https://doi.org/10.1093/jmp/14.2.109)
-
-## Researchers referenced multiple times in lectures
-
-Roughly by order of how often they were referenced
-
-* [John C. Doyle](http://www.cds.caltech.edu/~doyle/wiki/index.php?title=Main_Page) - robust-yet-fragile, control systems, biological applications
-* [Elinor Ostrom](http://elinorostrom.com/) - tragedy of the commons & polycentric governance
-* [Paul Feltovitch](https://www.ihmc.us/groups/pfeltovich/) - oversimplifications
-
-
 
 ## My notes by lecture
 
