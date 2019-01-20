@@ -67,7 +67,7 @@ Elinor Ostrom: [Coping with tragedies of the commons](https://www.annualreviews.
 Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Work Systems (Hoffman & Woods): <https://www.researchgate.net/publication/260404967_Simon's_Slice_Five_Fundamental_Tradeoffs_that_Bound_the_Performance_of_Human_Work_Systems>
 
 
-“Al Roth” paper about markets unraveling: [www.mitpressjournals.org/doi/pdf/10.1162/itgg.2008.3.1.119](https://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2008.3.1.119)
+Al Roth paper about markets unraveling: [www.mitpressjournals.org/doi/pdf/10.1162/itgg.2008.3.1.119](https://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2008.3.1.119)
 
 
 Feltovich & Spiro paper about oversimplifications: [doi.org/10.1093/jmp/14.2.109](https://doi.org/10.1093/jmp/14.2.109)
