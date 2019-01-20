@@ -10,9 +10,9 @@ The lectures are available for free online at the link above.
 
 ## Direct links to lectures
 
-The videos on the official page are in iframes, which prevented me from viewing
-them in full screen mode. Here are direct links to the videos, which allows you
-to view them full screen.
+The videos on the official page are in iframes, which seems to prevented Chrome
+from viewing them in full screen mode. Here are direct links to the videos,
+which allows the videos to be full screen.
 
 I watched the videos at 2X speed using the Chrome [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) plugin.
 
