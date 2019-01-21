@@ -49,6 +49,8 @@ Systems, Man, and Cybernetics - Part A: Systems and Humans, vol. 40, no. 4, pp.
 839-852, July 2010.  doi:
 [10.1109/TSMCA.2010.2048027](https://doi.org/10.1109/TSMCA.2010.2048027)
 
+Perry & Wears, Underground Adaptations: Case studies from Health care: <https://www.researchgate.net/publication/257480321_Underground_Adaptations_Case_Studies_from_Health_Care>
+
 Work-arounds, make-work, and kludges by Koopman and Hoffman: <https://ieeexplore.ieee.org/document/1249172>
 
 Richard Cook’s “Being Bumpable” - intensive care units <http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf>

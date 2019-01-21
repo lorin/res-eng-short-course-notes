@@ -75,6 +75,7 @@ Joint function of:
 - optimality
 
 # Adaptive cycles
+
 - Studies of resilience in action
 - regularities
 - patterns
@@ -83,12 +84,22 @@ Joint function of:
 - charting how changes reverberate through multi-role, multi-eschelon networks
 - each response to change by some unit triggers adaptive responses across other
   units
+- pressing need intersects with apparently powerful capaability
+- point of change revbereates through the network
+- experience of adaptive shortfall (brittleness)
+- responsible people act as generic adaptive and learning stop-gap to fill
+  shortfall
+- resulting in kludges (workarounds)
+- new opportunities for innovation
+- adaptive florescence
 
  stalls <---reverb---> florescence
 
 
-# Florescence
+# Adaptive florescence
 - change in one unit opens up new possibilities in other units
 - the degree that changes in one area tend to recruit or open up beneficial
   changes in many other apsects of the network, which opens up new
   opportunities across the network
+
+
