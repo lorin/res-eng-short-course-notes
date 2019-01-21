@@ -159,3 +159,26 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
+
+# Units of adaptive behavior (UAB)
+- uses its knowledge & capabilities to adjust its behavior in changing
+  circumstances in pursuit of goals
+- responssible for goals
+- experience consequences of success/failure
+
+
+Human systems as adaptive units are:
+* intentional (have goals)
+* reflective (have a model of themselves)
+
+
+# Polycentric governance
+
+- Solution to the tragedy of the commons
+- Proppsed by Ostrom
+- Network of interdependent units operating over different ranges
+- strategy for
+    * empower decentralized initiative
+    * coordinate over emerging trends to meet priorities
+    * dynamic interplay as situations evolve & as other units adapt
+
