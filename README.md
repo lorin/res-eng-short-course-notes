@@ -64,13 +64,13 @@ Stephen Lansing paper Balinese water temples: https://anthrosource.onlinelibrary
 
 The theory of graceful extensibility: basic rules that govern adaptive systems: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
+Cook R, Rasmussen J “Going solid”: a model of system dynamics and consequences for patient safety BMJ Quality & Safety 2005;14:130-134. <https://qualitysafety.bmj.com/content/14/2/130>
+
 Elinor Ostrom: [Coping with tragedies of the commons](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.2.1.493)
 
 Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Work Systems (Hoffman & Woods): <https://www.researchgate.net/publication/260404967_Simon's_Slice_Five_Fundamental_Tradeoffs_that_Bound_the_Performance_of_Human_Work_Systems>
 
-
 Al Roth paper about markets unraveling: [www.mitpressjournals.org/doi/pdf/10.1162/itgg.2008.3.1.119](https://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2008.3.1.119)
-
 
 Feltovich & Spiro paper about oversimplifications: [doi.org/10.1093/jmp/14.2.109](https://doi.org/10.1093/jmp/14.2.109)
 

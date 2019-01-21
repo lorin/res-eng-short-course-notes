@@ -103,3 +103,28 @@ Joint function of:
   opportunities across the network
 
 
+# 10 proto-theorems
+
+From [The theory of graceful extensibility: basic rules that govern adaptive systems]
+
+1. Boundaries are universal
+2. Surprise occurs, continuously
+3. Risk of saturation is monitored and regulated
+4. Synchronization across multiple units of adaptive behavior in a network is necessary
+5. Risk of saturation can be shared
+6. Pressure changes what is sacrificed when
+7. Pressure for optimality undermines graceful extensibility
+8. All adaptive units are local
+9. Perspective contrast overcomes bounds
+10. Reflective systems continually risk mis-calibration
+
+[The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
+
+
+# 3 breakdowns
+
+1. Decompensation (complexities in time)
+2. Desynchronization: working at cross-purposes (complexities over scales)
+3. Getting stuck in outdated behaviors (complexities in learning)
+
+
