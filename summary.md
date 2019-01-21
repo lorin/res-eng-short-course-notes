@@ -102,8 +102,47 @@ Joint function of:
   changes in many other apsects of the network, which opens up new
   opportunities across the network
 
+# 3 breakdowns
 
-# 10 proto-theorems
+1. Decompensation (complexities in time)
+2. Desynchronization: Working at cross-purposes (complexities over scales)
+3. Getting stuck in outdated behaviors (complexities in learning)
+
+
+# Decompensation
+- exhaust capacity to adapt
+- "going solid"
+- breakdown occurs when challenges grow and cascade faster than responses can
+  be decided on and deployed to effect
+
+# Desynchronization
+- Teams are no longer coordinated
+- fragmentation (silos)
+
+# Complexities in learning
+- every good controller is a model of system being controlled
+- pursuing tragets in face of variation
+- model surprise
+- learning loops
+- world changes, but system stuck in what were previously adaptive strategies
+- proactive learnings vs. gettick stuck
+- oversimplification
+- fixation
+
+# Capacity for maneuver (CfM)
+- cushion of potential actions & additional resources that allow system to
+  continue functinoning despite unexpected deamnds
+- controlling risk of saturation
+- critical parameter for controla nticipation
+- there are regularities of what happens at borderlands
+- can be measured
+
+# Sustained adaptability
+- anticipate vs decompensate
+- synchronize across units vs work at cross purposes
+- roles, levels, practive learning before failures vs. stuck in stale behaviors
+
+# 10 theorems of adaptive universe
 
 From [The theory of graceful extensibility: basic rules that govern adaptive systems]
 
@@ -119,12 +158,4 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 10. Reflective systems continually risk mis-calibration
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
-
-
-# 3 breakdowns
-
-1. Decompensation (complexities in time)
-2. Desynchronization: working at cross-purposes (complexities over scales)
-3. Getting stuck in outdated behaviors (complexities in learning)
-
 
