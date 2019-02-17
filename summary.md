@@ -74,6 +74,11 @@ Joint function of:
 - graceful extensibility
 - optimality
 
+Combine how well we do:
+- far from the boundaries (far from risk of saturation)
+- near the boundaries (risk of saturation is high)
+
+
 # Adaptive cycles
 
 - Studies of resilience in action
@@ -102,24 +107,37 @@ Joint function of:
   changes in many other apsects of the network, which opens up new
   opportunities across the network
 
-# 3 breakdowns
+# Three forms of adaptive breakdown (precarious present)
 
 1. Decompensation (complexities in time)
 2. Desynchronization: Working at cross-purposes (complexities over scales)
-3. Getting stuck in outdated behaviors (complexities in learning)
-
+3. Getting stuck in outdated models (complexities in learning)
 
 # Decompensation
 - exhaust capacity to adapt
+- all units have bounds
+- saturation
 - "going solid"
 - breakdown occurs when challenges grow and cascade faster than responses can
   be decided on and deployed to effect
+
+
+## Upside: anticipate/mutuality
+- Can I keep up with change?
+- How much margin is left
+- Readiness to 
+    * Deploy existiing
+    * Mobilize new
+    * Generate new (the future)
 
 # Desynchronization
 - Teams are no longer coordinated
 - fragmentation (silos)
 
-# Complexities in learning
+## Upside: polycentric governance
+(See later)
+
+# Getting stuck in stale/outdated models
 - every good controller is a model of system being controlled
 - pursuing tragets in face of variation
 - model surprise
@@ -128,6 +146,12 @@ Joint function of:
 - proactive learnings vs. gettick stuck
 - oversimplification
 - fixation
+
+## Upside: proactive learning
+- Proactive learning without waiting for collapse
+- two kinds of learning
+    1. change your base envelope/fitness
+    2. graceful extensibility: change how stretch at boundary
 
 # Capacity for maneuver (CfM)
 - cushion of potential actions & additional resources that allow system to
@@ -151,11 +175,11 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 3. Risk of saturation is monitored and regulated
 4. Synchronization across multiple units of adaptive behavior in a network is necessary
 5. Risk of saturation can be shared
-6. Pressure changes what is sacrificed when
+6. Pressure changes what is sacrificed when (adpating how you adapt)
 7. Pressure for optimality undermines graceful extensibility
 8. All adaptive units are local
-9. Perspective contrast overcomes bounds
-10. Reflective systems continually risk mis-calibration
+9. Perspective contrast overcomes bounds (individual perspectives are limited)
+10. Reflective systems continually risk mis-calibration (you think your model is better than it is)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
@@ -175,10 +199,88 @@ Human systems as adaptive units are:
 # Polycentric governance
 
 - Solution to the tragedy of the commons
-- Proppsed by Ostrom
+- Proposed by Elinor Ostrom
+- In between command hierarchy and fully decentralized
 - Network of interdependent units operating over different ranges
 - strategy for
     * empower decentralized initiative
     * coordinate over emerging trends to meet priorities
     * dynamic interplay as situations evolve & as other units adapt
+- multiple centers
+- each has partial authority/autonomy
+- Example: Balinese water temples (unintended consequence of Western
+  intervention was pest outbreaks)
+- Reciprocity: "I will help you when you're crunched"
+- need to incentivize working across roles
+
+
+# Charting adaptive cycles
+
+1. Pick a trigger
+2. Who does the trigger affect?
+3. Adaptive capacitices can be regulated
+4. No UAB can have sufficient range of adaptive behavior to regulate risk of saturation by itself
+5. Some UABs can monitor & regulate capacity for maneuver of other UABs in response to changes in the risk of saturation
+
+
+Treat each adaptive unit response as a trigger.
+
+Look at waves of change.
+
+
+##  1. Pick a trigger
+- acute, immediate, slowly building
+- anomalous?
+- opportunity?
+- bottleneck
+
+## 2. Who does the trigger affect?
+- who reacts to it?
+- who notices it?
+- what does it mean for that role/UAB?
+- How did they change?
+
+## 3. Adaptive capacitices can be regulated
+- recognize risk of saturation
+- adjust capacity to maneuver
+- how hard is it to stay in control?
+- struggle for fitness is ongoing
+
+## 4. No UAB can have sufficient range of adaptive behavior to regulate risk of saturation by itself
+- have to look at network
+- example: heart as adaptive unit
+
+
+# Tradeoffs
+
+- Optimality-brittleness (Doyle)
+- Acute-chronic, faster-better-cheaper pressure (Woods)
+- Efficiency-thoroughness (Hollnagel)
+- Bounds on perspective (Woods)
+
+
+Five tradeoffs:
+1. Optimality vs resilience
+2. Efficience vs thoroughness
+3. Concentrated vs distributed
+4. Local vs distant views
+5. Acute vs chronic goals
+
+When pressure/load is low, lots of good operating points, easy to find them.
+
+As load goes up, harder to find good operating points
+
+
+# Law of stretched systems
+
+Every system is continuously stretched to operate at capacity.
+
+# Places where this works
+
+1. Tangible experience with surprise
+2. Unease about how precarious they are
+3. Push initiative down (empower local)
+4. Reciprocity: sync work across units of adaptive behavior (units help each other)
+5. Work to align goals across multiple units
+
 
