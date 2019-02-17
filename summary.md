@@ -275,12 +275,39 @@ As load goes up, harder to find good operating points
 
 Every system is continuously stretched to operate at capacity.
 
-# Places where this works
+# How to make your tangled, layer network more gracefully extensible
+
+Lecture 9, 1:21:08
 
 1. Tangible experience with surprise
-2. Unease about how precarious they are
-3. Push initiative down (empower local)
+2. Unease that the system is more precarious than they think
+3. Push initiative down 
 4. Reciprocity: sync work across units of adaptive behavior (units help each other)
 5. Work to align goals across multiple units
 
 
+## Tangible experience with surprise
+- recognizes decompensation is a risk
+- know there are dragons
+- talk about the dragons
+- talk about how the dragons change
+- recognizing what are good at handling dragons
+- talk about: how do I deal with cascading problems?
+- if I wait until a need is definitive, it is already too late
+
+## Unease that the system is more precarious than they think
+- regardless of how successful they have been in the past
+- past success does not mean future will be the same
+- system is poised more precariously
+- what worked yesterday won't
+- ready to adapt how you adapt
+
+## Push initiative down
+- decentralize initiative
+- empower local
+- see this in places where:
+    * surprise is really, really tangible
+    * failure to handle surprise is really, really bad
+
+## Reciprocity
+- sync work across units of adaptive behavior (units help each other)
