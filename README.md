@@ -23,6 +23,7 @@ I watched the videos at 2X speed using the Chrome [Video Speed Controller](https
 * [Lecture 4](https://livestream.com/accounts/10405787/events/3734088/player)
 * [Lecture 5](https://livestream.com/accounts/10405787/events/3734094/player)
 * [Lecture 6](https://livestream.com/accounts/10405787/events/3734096/player)
+  (starts at 2:15)
 * [Lecture 7](https://livestream.com/accounts/10405787/events/3734098/player)
 * Lecture 8 is missing
 * [Lecture 9](https://livestream.com/accounts/10405787/events/3734106/player)

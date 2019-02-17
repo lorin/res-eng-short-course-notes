@@ -304,10 +304,40 @@ Lecture 9, 1:21:08
 
 ## Push initiative down
 - decentralize initiative
-- empower local
+- empower local initiative to unit of action in the world
 - see this in places where:
     * surprise is really, really tangible
     * failure to handle surprise is really, really bad
+- example: military history
 
 ## Reciprocity
-- sync work across units of adaptive behavior (units help each other)
+- Ostrum's heuristics
+- synchronize work across units of adaptive behavior
+- I'm sensitive to how hard you're working to stay in control when you're at
+  risk of saturation
+- I'm going to do something to relax or assist you when that happens
+- I'm going to extend your ability to perform in those conditions
+- I'm going to build graceful extensibility in our relationship
+- most organizations when they have signs of trouble:
+    * put additional pressure on you to work to role
+    * here's your standard and what you should be doing
+    * here's the scores you have to hit
+    * here's the criteria you must meet
+    * more and more pressure to meet those scores/criteria
+    * that creates role retreat
+    * don't risk spending time/energy reaching across role boundary
+    * don't assist other units of adaptive behavior
+    * undermines synchronization & coordination
+    * guarantees an increase in working at cross-purposes
+    * role specification only includes standard forms of interaction across roles
+
+## Work to align goals across multiple units
+- recognize there are multiple goals, conflicts, reprioritization required
+- help them work out how to align goals
+- modify what goals are most important for the current circumstances we're
+  doing with
+- in an accident: get away from productivity goals, focus on critical safety goals as a situation degrades (e.g., Apollo 13)
+- "leadership" is a stopgap: using generic adaptive capacity of people to make up for the fact that you don't have a system that works together well
+- need to coordinate upper & lower eschelons closer to points of action in the world: polycentric governance
+
+TODO: Lectures 10-
