@@ -277,7 +277,7 @@ Every system is continuously stretched to operate at capacity.
 
 # How to make your tangled, layer network more gracefully extensible
 
-Lecture 9, 1:21:08
+[Lecture 9](https://livestream.com/accounts/10405787/events/3734106/player), 1:21:08
 
 1. Tangible experience with surprise
 2. Unease that the system is more precarious than they think
