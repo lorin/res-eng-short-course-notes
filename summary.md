@@ -126,7 +126,7 @@ Combine how well we do:
 - Can I keep up with change?
 - How much margin is left
 - Readiness to 
-    * Deploy existiing
+    * Deploy existing
     * Mobilize new
     * Generate new (the future)
 
@@ -284,6 +284,7 @@ Every system is continuously stretched to operate at capacity.
 3. Push initiative down 
 4. Reciprocity: sync work across units of adaptive behavior (units help each other)
 5. Work to align goals across multiple units
+6. Invest in graceful extensibility
 
 
 ## Tangible experience with surprise
@@ -294,6 +295,7 @@ Every system is continuously stretched to operate at capacity.
 - recognizing what are good at handling dragons
 - talk about: how do I deal with cascading problems?
 - if I wait until a need is definitive, it is already too late
+- practice & simulation when don't see dragons that often
 
 ## Unease that the system is more precarious than they think
 - regardless of how successful they have been in the past
@@ -309,6 +311,10 @@ Every system is continuously stretched to operate at capacity.
     * surprise is really, really tangible
     * failure to handle surprise is really, really bad
 - example: military history
+- upper eschelons:
+    * monitor how well handlings things
+    * reinforces area of success
+    * filling in gaps in order to achieve high-level goals
 
 ## Reciprocity
 - Ostrum's heuristics
@@ -334,10 +340,33 @@ Every system is continuously stretched to operate at capacity.
 ## Work to align goals across multiple units
 - recognize there are multiple goals, conflicts, reprioritization required
 - help them work out how to align goals
-- modify what goals are most important for the current circumstances we're
-  doing with
+- modify what goals are most important for the current circumstances we're dealing with
 - in an accident: get away from productivity goals, focus on critical safety goals as a situation degrades (e.g., Apollo 13)
 - "leadership" is a stopgap: using generic adaptive capacity of people to make up for the fact that you don't have a system that works together well
 - need to coordinate upper & lower eschelons closer to points of action in the world: polycentric governance
 
-TODO: Lectures 10-
+
+## Invest in graceful extensibility
+- reserve needs to be an effective force
+
+
+# Surprise
+
+- Surprise is about preparation
+- there are regularities about surprise
+- systems can be adapted to those regularities about surprise
+- need capabilities in advance
+- we can get better at building adaptive capacity
+
+
+# Universal laws and architectures (John Doyle)
+
+See [John Doyle's slides](http://www.cis.upenn.edu/~ngns/docs/Review_2010/Doyle%20MURI%202010.pdf)
+
+# Drivers of change & innovation
+
+1. Connectivity
+2. Sensors
+3. Automation/autonomy
+4. People (human goals & expertise)
+
