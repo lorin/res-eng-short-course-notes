@@ -57,7 +57,7 @@ Handling surprises regularly
 # Fluency law
 
 Well-adapted activity occurs with a facility that belies the difficulty of the
-demands resolved and the dillemas balanced.
+demands resolved and the dilemmas balanced.
 
 Adaptations hide what was adapted.
 
