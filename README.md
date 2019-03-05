@@ -32,6 +32,34 @@ I watched the videos at 2X speed using the Chrome [Video Speed Controller](https
 * [Lecture 12](https://livestream.com/accounts/10405787/events/3734114/player)
 
 
+## My notes
+
+These are the notes I took watching the lectures. I took a combination of handwritten notes (using my [reMarkable](https://remarkable.com/) tablet) and typed notes:
+
+### Summary notes
+
+* [Summary](summary.md)
+
+### Handwritten notes
+
+* [As a single PDF](notes.pdf)
+* [As multiple SVGs](handwritten-notes)
+
+### Typed notes
+
+* [Lecture 1](lecture-1.md)
+* [Lecture 2](lecture-2.md)
+* [Lecture 3](lecture-3.md)
+* [Lecture 4](lecture-4.md)
+* [Lecture 5](lecture-5.md)
+* Lecture 6 (no typed notes)
+* Lecture 7 (no typed notes)
+* Lecture 8 is missing
+* Lecture 9 (no typed notes)
+* Lecture 10 (no typed notes)
+* [Lecture 11](lecture-11.md)
+* [Lecture 12](lecture-12.md)
+
 ## Readings
 
 ### Books
@@ -75,30 +103,3 @@ Al Roth paper about markets unraveling: [www.mitpressjournals.org/doi/pdf/10.116
 
 Feltovich & Spiro paper about oversimplifications: [doi.org/10.1093/jmp/14.2.109](https://doi.org/10.1093/jmp/14.2.109)
 
-## My notes
-
-These are the notes I took watching the lectures. I took a combination of handwritten notes (using my [reMarkable](https://remarkable.com/) tablet) and typed notes:
-
-### Summary notes
-
-* [Summary](summary.md)
-
-### Handwritten notes
-
-* [As a single PDF](notes.pdf)
-* [As multiple SVGs](handwritten-notes)
-
-### Typed notes
-
-* [Lecture 1](lecture-1.md)
-* [Lecture 2](lecture-2.md)
-* [Lecture 3](lecture-3.md)
-* [Lecture 4](lecture-4.md)
-* [Lecture 5](lecture-5.md)
-* Lecture 6 (no typed notes)
-* Lecture 7 (no typed notes)
-* Lecture 8 is missing
-* Lecture 9 (no typed notes)
-* Lecture 10 (no typed notes)
-* [Lecture 11](lecture-11.md)
-* [Lecture 12](lecture-12.md)
