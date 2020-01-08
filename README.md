@@ -4,11 +4,12 @@ These are my personal, unofficial notes on [David
 Woods's](https://complexity.osu.edu/people/woods.2) Resilience Engineering
 short couse.
 
-Official course site: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
+Playlist of 2016 lectures on Youtube: <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt>
 
-The lectures are available for free online at the link above.
+## Direct links to 2015 lectures
 
-## Direct links to lectures
+Previous official course site: http://csel.org.ohio-state.edu/ResilienceEngineering.html
+This page 404s now, but the lectures are still available at the links below.
 
 The videos on the official page are in iframes, which seems to prevent Chrome
 from viewing them in full screen mode. Here are direct links to the videos,
