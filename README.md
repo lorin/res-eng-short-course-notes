@@ -4,21 +4,25 @@ These are my personal, unofficial notes on [David
 Woods's](https://complexity.osu.edu/people/woods.2) Resilience Engineering
 short couse.
 
-Official course site: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
+Note: these notes are based on older lectures. There are now newer lectures available
 
-The lectures are available for free online at the link above.
+## Newer lectures
 
-## Direct links to lectures
+The newer videos are hosted on YouTube at <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt>.
 
-The videos on the official page are in iframes, which seems to prevent Chrome
-from viewing them in full screen mode. Here are direct links to the videos,
-which allows the videos to be full screen.
+I haven't seen these yet, so I don't know how much has changed from the oldre lectures.
+
+## Older lectures
+
+There used to be an official course site at: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
+
+However, it now returns a 404. The direct livestream links still appear to be available:
 
 I watched the videos at 2X speed using the Chrome [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) plugin.
 
 * [Lecture 1](https://livestream.com/accounts/10405787/events/3731290/player)
 * [Lecture 2](https://livestream.com/accounts/10405787/events/3733706/player)
-* [Lecture 2B](http://csel.org.ohio-state.edu/videos/video2b.mp4) (~11 minutes .mp4 file)
+* [Lecture 2B](http://csel.org.ohio-state.edu/videos/video2b.mp4) (~11 minutes .mp4 file, no longer available...)
 * [Lecture 3](http://new.livestream.com/accounts/10405787/events/3733742/player)
 * [Lecture 4](https://livestream.com/accounts/10405787/events/3734088/player)
 * [Lecture 5](https://livestream.com/accounts/10405787/events/3734094/player)
