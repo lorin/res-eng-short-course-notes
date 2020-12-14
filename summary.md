@@ -89,8 +89,8 @@ Combine how well we do:
 - charting how changes reverberate through multi-role, multi-eschelon networks
 - each response to change by some unit triggers adaptive responses across other
   units
-- pressing need intersects with apparently powerful capaability
-- point of change revbereates through the network
+- pressing need intersects with apparently powerful capability
+- point of change reverberates through the network
 - experience of adaptive shortfall (brittleness)
 - responsible people act as generic adaptive and learning stop-gap to fill
   shortfall
@@ -104,7 +104,7 @@ Combine how well we do:
 # Adaptive florescence
 - change in one unit opens up new possibilities in other units
 - the degree that changes in one area tend to recruit or open up beneficial
-  changes in many other apsects of the network, which opens up new
+  changes in many other aspects of the network, which opens up new
   opportunities across the network
 
 # Three forms of adaptive breakdown (precarious present)
@@ -139,7 +139,7 @@ Combine how well we do:
 
 # Getting stuck in stale/outdated models
 - every good controller is a model of system being controlled
-- pursuing tragets in face of variation
+- pursuing targets in face of variation
 - model surprise
 - learning loops
 - world changes, but system stuck in what were previously adaptive strategies
@@ -155,16 +155,16 @@ Combine how well we do:
 
 # Capacity for maneuver (CfM)
 - cushion of potential actions & additional resources that allow system to
-  continue functinoning despite unexpected deamnds
+  continue functioning despite unexpected demands
 - controlling risk of saturation
-- critical parameter for controla nticipation
+- critical parameter for control anticipation
 - there are regularities of what happens at borderlands
 - can be measured
 
 # Sustained adaptability
 - anticipate vs decompensate
 - synchronize across units vs work at cross purposes
-- roles, levels, practive learning before failures vs. stuck in stale behaviors
+- roles, levels, proactive learning before failures vs. stuck in stale behaviors
 
 # 10 theorems of adaptive universe
 
@@ -175,7 +175,7 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 3. Risk of saturation is monitored and regulated
 4. Synchronization across multiple units of adaptive behavior in a network is necessary
 5. Risk of saturation can be shared
-6. Pressure changes what is sacrificed when (adpating how you adapt)
+6. Pressure changes what is sacrificed when (adapting how you adapt)
 7. Pressure for optimality undermines graceful extensibility
 8. All adaptive units are local
 9. Perspective contrast overcomes bounds (individual perspectives are limited)
@@ -187,7 +187,7 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 # Units of adaptive behavior (UAB)
 - uses its knowledge & capabilities to adjust its behavior in changing
   circumstances in pursuit of goals
-- responssible for goals
+- responsible for goals
 - experience consequences of success/failure
 
 
@@ -218,7 +218,7 @@ Human systems as adaptive units are:
 
 1. Pick a trigger
 2. Who does the trigger affect?
-3. Adaptive capacitices can be regulated
+3. Adaptive capacities can be regulated
 4. No UAB can have sufficient range of adaptive behavior to regulate risk of saturation by itself
 5. Some UABs can monitor & regulate capacity for maneuver of other UABs in response to changes in the risk of saturation
 
@@ -240,7 +240,7 @@ Look at waves of change.
 - what does it mean for that role/UAB?
 - How did they change?
 
-## 3. Adaptive capacitices can be regulated
+## 3. Adaptive capacities can be regulated
 - recognize risk of saturation
 - adjust capacity to maneuver
 - how hard is it to stay in control?
