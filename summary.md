@@ -143,7 +143,7 @@ Combine how well we do:
 - model surprise
 - learning loops
 - world changes, but system stuck in what were previously adaptive strategies
-- proactive learnings vs. gettick stuck
+- proactive learnings vs. getting stuck
 - oversimplification
 - fixation
 
