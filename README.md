@@ -10,7 +10,7 @@ Note: these notes are based on older lectures. There are now newer lectures avai
 
 The newer videos are hosted on YouTube at <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt>.
 
-I haven't seen these yet, so I don't know how much has changed from the oldre lectures.
+I haven't seen these yet, so I don't know how much has changed from the older lectures.
 
 ## Older lectures
 
