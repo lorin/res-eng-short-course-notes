@@ -49,3 +49,22 @@ extensibility.
 How do we do that? Been giving you some of the hints of what we learned. And it's a process of inquiry ???
 
 1:56:05
+
+
+can you handle
+* cascades
+* changing tempos
+
+resources:
+* deploy
+* mobilize
+* generate
+
+synchronize across network
+
+get better at dealing with the event you didn't plan for
+
+There are two learning loops:
+
+a. tuning competence envelope (continuous improvement)
+b. resileince engineering
