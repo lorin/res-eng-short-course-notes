@@ -1,5 +1,13 @@
 # Lecture 9
 
+robust yet fragile
+
+getting better leads to getting worse in other areas
+
+surprise is inevitable b/c it is about limits of models
+
+tradeoffs → increasing competence envelope vs dealign with surprise
+
 We'll look at D4 is a specific issue...
 
 In the study we did in '87, the expert system tech at the time: as they improved it to handle the extra D3 and D4, what happened, they stopped handling D2.
