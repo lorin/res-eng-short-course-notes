@@ -10,6 +10,10 @@ There's always more than one perspective. (27:13)
 
 The view from any single point of observation simultaenously reveals and obscures. (27:31)
 
+There is a trade-off between building resilience and pursuing optimality. (1:09:02)
+
+We're interested in understanding the rules of the adaptive universe and using those to engineer in resilience, to find ways to balance pressure to be optimal and the need to be resilient. (1:10:07)
+
 ## The adaptive universe
 
 * emerging comprehensive account of complex adaptive systems that serve *human purposes*
