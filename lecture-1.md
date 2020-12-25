@@ -2,6 +2,14 @@
 
 Releasing the adaptive power of human systems
 
+## Snippets
+
+Complexity for resilience engineering refers to networks with increasingly extensive and hidden interdependencies. (26:10)
+
+There's always more than one perspective. (27:13)
+
+The view from any single point of observation simultaenously reveals and obscures. (27:31)
+
 ## The adaptive universe
 
 * emerging comprehensive account of complex adaptive systems that serve *human purposes*
