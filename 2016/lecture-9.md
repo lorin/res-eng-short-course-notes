@@ -50,6 +50,21 @@ How do we do that? Been giving you some of the hints of what we learned. And it'
 
 1:56:05
 
+pressure, conflicts, adaptation → build explanations, interventions
+
+anomaly response → diagnostic, therapeutic
+
+want to align:
+* locally adaptive
+* globally adaptive
+
+redefine constraint space
+
+
+adaptive cycle
+* pressure
+* adapts → workaround
+* florescence
 
 can you handle
 * cascades

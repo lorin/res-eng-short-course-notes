@@ -42,3 +42,16 @@ what dragons lurking near, at and beyond boundary?
 anticipating crunches ahead
 
 genearting/sustaining a readiness to respond
+
+
+## Notes
+
+pressures → conflict
+
+can't meet expectations
+
+
+* open landscape
+* dancing landscaep
+
+think in processes and relationships, not nouns
