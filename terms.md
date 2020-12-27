@@ -1,6 +1,6 @@
 # Terms
 
-Some of the terms that David Woods use.
+Some terms that David Woods uses.
 
 
 adaptations,
@@ -63,7 +63,7 @@ graceful degradation,
 graceful extensibility,
 goals,
 goal conflicts,
-human cogntiive systems,
+human cognitive systems,
 initiative,
 innovation,
 interact,
