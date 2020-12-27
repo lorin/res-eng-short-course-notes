@@ -55,3 +55,27 @@ can't meet expectations
 * dancing landscaep
 
 think in processes and relationships, not nouns
+
+adaptive capacity:
+* base (far from the boundaries)
+* extended (near the boundaries)
+
+these trade off each other
+
+
+good architecture to sustain adaptability:
+* makes it easy to improve one type of adaptive apacity without degrading teh other one too much
+
+
+### Readiness to respond
+
+#### Deployable
+
+Example: anaesthesiologist case
+* plans for worst-case surprise by adding emergency lines
+
+#### Mobilizable
+
+Example: crisis training.
+* preparing people so they could mobilize as teams
+* know how to help each other and do things in order to handle a crisis
