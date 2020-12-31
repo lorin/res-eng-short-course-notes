@@ -88,6 +88,8 @@ Work-arounds, make-work, and kludges by Koopman and Hoffman: <https://ieeexplore
 
 Richard Cook’s “Being Bumpable” - intensive care units <http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf>
 
+Cook, Richard I; Woods, David D; McDonald, John S. Human Performance in Anesthesia. Technical Report CSEL91.003, April 1991. Cognitive Systems Engineering Laboratory, The Ohio State University, Columbus, OH 43210. doi: [10.13140/RG.2.2.29675.36648](http://dx.doi.org/10.13140/RG.2.2.29675.36648)
+
 Chapter: How adapative systems fail: <https://www.researchgate.net/publication/284173754_How_Adaptive_Systems_Fail>
 In book: Resilience Engineering in Practice, Chapter: How Adaptive Systems Fail, Publisher: Ashgate, Editors: E. Hollnagel, J. Paries, J. Wreathall, D. D. Woods, pp.127-143
 
