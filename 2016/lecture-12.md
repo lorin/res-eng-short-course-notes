@@ -89,3 +89,12 @@ brain is good at having more than one typicality. e.g.: how students behave diff
 * on Friday night on capus
 * at Thanksgiving at home
 
+
+
+References work Woods and Hoffman did that found five tradeoffs. I think this is a reference to the [Beyond Simon's Slice](https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf) paper. Those tradeoffs are:
+
+1. bounded ecology: optimality-resilience of adaptive capacity trade-off
+2. bounded cognizance: efficiency-thoroughness of situated plans trade-off
+3. bounded perspectives: revelation-reflection on perspectives trade-off
+4. bounded responsibility: acute-chronic goal responsibility trade-off
+5. bounded effectiveness: concentrated-distributed action trade-off

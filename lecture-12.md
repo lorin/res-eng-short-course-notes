@@ -55,7 +55,7 @@ positive story:
 
 negative story:
 
-- breittleness
+- brittleness
 - shortfalls & mis-calibration
 - trapped in trade-offs
 
