@@ -1,29 +1,24 @@
 # Notes on David Woods's Resilience Engineering short course
 
 These are my personal, unofficial notes on [David
-Woods's](https://complexity.osu.edu/people/woods.2) Resilience Engineering
-short couse.
+Woods's](https://ise.osu.edu/people/woods.2) [Resilience Engineering short couse](https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt).
 
-Note: these notes are based on older lectures. There are now newer lectures available
 
-## Newer lectures
+## 2016 lectures
 
-The newer videos are hosted on YouTube at <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt>.
+A set of lectures from 2016 are hosted on YouTube at <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt>.
 
-I haven't seen these yet, so I don't know how much has changed from the older lectures.
+## 2015 lectures
 
-## Older lectures
+A set of lectures from 2015, which were a collaboration between Ohio State University's Cognitive Systems Engineering Laboratory, O'Reiliy Media and the Resilience Engineering Association,
+were originally linked from OSU [(internet archive link)](http://web.archive.org/web/20190927021447/http://csel.org.ohio-state.edu/ResilienceEngineering.html).
 
-There used to be an official course site at: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
+The individual lectures are still accessible at the links below:
 
-However, it now returns a 404. The direct livestream links still appear to be available:
-
-I watched the videos at 2X speed using the Chrome [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) plugin.
 
 * [Lecture 1](https://livestream.com/accounts/10405787/events/3731290/player)
 * [Lecture 2](https://livestream.com/accounts/10405787/events/3733706/player)
-* [Lecture 2B](http://csel.org.ohio-state.edu/videos/video2b.mp4) (~11 minutes .mp4 file, no longer available...)
-* [Lecture 3](http://new.livestream.com/accounts/10405787/events/3733742/player)
+* [Lecture 3](https://livestream.com/accounts/10405787/events/3733742/player)
 * [Lecture 4](https://livestream.com/accounts/10405787/events/3734088/player)
 * [Lecture 5](https://livestream.com/accounts/10405787/events/3734094/player)
 * [Lecture 6](https://livestream.com/accounts/10405787/events/3734096/player)
@@ -51,18 +46,18 @@ These are the notes I took watching the lectures. I took a combination of handwr
 
 ### Typed notes
 
-* [Lecture 1](lecture-1.md)
-* [Lecture 2](lecture-2.md)
-* [Lecture 3](lecture-3.md)
-* [Lecture 4](lecture-4.md)
-* [Lecture 5](lecture-5.md)
+* [Lecture 1](notes/2015/lecture-1.md)
+* [Lecture 2](notes/2015/lecture-2.md)
+* [Lecture 3](notes/2015/lecture-3.md)
+* [Lecture 4](notes/2015/lecture-4.md)
+* [Lecture 5](notes/2015/lecture-5.md)
 * Lecture 6 (no typed notes)
 * Lecture 7 (no typed notes)
 * Lecture 8 is missing
 * Lecture 9 (no typed notes)
 * Lecture 10 (no typed notes)
-* [Lecture 11](lecture-11.md)
-* [Lecture 12](lecture-12.md)
+* [Lecture 11](notes/2015/lecture-11.md)
+* [Lecture 12](notes/2015/lecture-12.md)
 
 ## Readings
 
